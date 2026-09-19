@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Sinan T A 👋
 
-### Data Scientist & AI/ML Engineer | Python | Machine Learning | Deep Learning | Computer Vision
+### Data Scientist | AI/ML Engineer | Python | Machine Learning | Deep Learning | Computer Vision
 
 B.Tech graduate in **Artificial Intelligence and Data Science** with hands-on experience building machine learning, deep learning, computer vision, and data analytics solutions.
 
