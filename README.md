@@ -9,7 +9,7 @@ I'm interested in solving real-world problems using **Python, SQL, Machine Learn
 💼 Data Scientist Intern at Techolas Technologies  
 🎓 B.Tech in Artificial Intelligence and Data Science  
 📍 Palghat, Kerala, India  
-🎯 Open to Entry-Level Data Science & AI/ML Roles
+🎯 Open to Entry-Level Data Scientist, AI/ML Engineer & Data Analyst Roles
 
 ---
 
