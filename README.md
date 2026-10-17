@@ -92,11 +92,9 @@ I enjoy working across the complete data science workflow — from **data prepar
 
 # 🚀 Featured Projects
 
-## 🚨 Automatic Violence Detection System using Deep Learning
+## 🚨 Smart Anti-Violence System Using Deep Learning
 
-Built a real-time video analysis system to detect and flag violent actions using a CNN-based model and YOLOv7.
-
-Applied transfer learning to improve model performance and reduce training time, with automated alerting for flagged footage.
+Built a real-time video analysis system to detect and flag violent actions using a CNN-based model and YOLOv7. Applied transfer learning to boost accuracy and reduce training time, enabling automated alerting on flagged footage.
 
 **Technologies:**
 
